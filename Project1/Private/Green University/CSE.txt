@@ -1,0 +1,76 @@
+/PROF. DR. MD. SAIFUL AZAD;chairman@cse.green.edu.bd:
+/PROF. DR. MD. MONIRUL ISLAM;advisor@cse.green.edu.bd:
+/PROF. DR. MD. ABDUR RAZZAQUE;razzaque@cse.green.edu.bd:
+/PROF. DR. MD. ZAHIDUL ISLAM;zahid@cse.green.edu.bd:
+/MR. SYED AHSANUL KABIR;kabir@cse.green.edu.bd:
+/DR. MD. MOSTAFIJUR RAHMAN;mostafijur@cse.green.edu.bd:
+/DR. MUHAMMAD AMINUR RAHAMAN;aminur@cse.green.edu.bd:
+/MS. UMME RUMAN;ruman@cse.green.edu.bd:
+/MR. TAMIM AL MAHMUD;tamim@cse.green.edu.bd:
+/MS. SHAMIMA AKTER;shamima_akter@cse.green.edu.bd:
+/MD. SOLAIMAN MIA;solaiman@cse.green.edu.bd:
+/MS. SUMAIYA KABIR;sumaiya@cse.green.edu.bd:
+/DR. FAIZ AL FAISAL;faisal@cse.green.edu.bd:
+/DR. NAZIB ABDUN NASIR;nasir@cse.green.edu.bd:
+/MS. SHAMIMA ISLAM;shamima@cse.green.edu.bd:
+/MR. MD. JAHIDUL ISLAM;jahid@cse.green.edu.bd:
+/MS. SHARMIN ALAM;sharmin@cse.green.edu.bd:
+/MR. HUMAYAN KABIR RANA;humayan@cse.green.edu.bd:
+/MR. AHMED IQBAL PRITOM;iqbal@cse.green.edu.bd:
+/MS. JAKIA SULTANA;jakia@cse.green.edu.bd:
+/MS. FARHANA AKTER SUNNY;farhana@cse.green.edu.bd:
+/MS. SADIA AFROZE;sadia@cse.green.edu.bd:
+/MR. MD. MONIRUL ISLAM;monirul@cse.green.edu.bd:
+/MS. AYESHA KHATUN;ayesha@cse.green.edu.bd:
+/MR. JARGIS AHMED;jargis@cse.green.edu.bd:
+/MR. MEHRAB ZAMAN CHOWDHURY;mehrab@cse.green.edu.bd:
+/MS. SAMIHA ISLAM TANNI;samiha@cse.green.edu.bd:
+/MR. MD. ROBIUL ISLAM;robiul@cse.green.edu.bd:
+/MS. ARPITA CHOWDHURY;arpita@cse.green.edu.bd:
+/MS. SULTANA UMME HABIBA;habiba@cse.green.edu.bd:
+/MD ANSARUL ISLAM;ansarul@cse.green.edu.bd:
+/MS. BABE SULTANA;babe@cse.green.edu.bd:
+/MS. UMME HABIBA;umme@cse.green.edu.bd:
+/MR. MD. HUMAYUN KABIR;humayun@cse.green.edu.bd:
+/MD. FAHIM AREFIN;fahim@cse.green.edu.bd:
+/MS. ROKEYA KHATUN;rokeya@cse.green.edu.bd:
+/AMIT MANDAL;amit@cse.green.edu.bd:
+/MOHAMMAD EHSAN SHAHMI CHOWDHURY;ehsan@cse.green.edu.bd:
+/ARNAB KANTI TARAFDER;tarafder@cse.green.edu.bd:
+/MS. TANPIA TASNIM;tanpia@cse.green.edu.bd:
+/MS. FEROZA NAZNIN;feroza@cse.green.edu.bd:
+/MR. ANWARUL ISLAM;anwarul@cse.green.edu.bd:
+/MR. PALASH ROY;palash@cse.green.edu.bd:
+/MR. MD. MOSHIUR RAHMAN;moshiur@cse.green.edu.bd:
+/MD. SULTANUL ISLAM OVI;sultanul@cse.green.edu.bd:
+/MONOSHI KUMAR ROY;monoshi@cse.green.edu.bd:
+/MS. SHIFAT ARA RAFIQ;sifatara@cse.green.edu.bd:
+/MR. ABU RAFE MD JAMIL;jamil@cse.green.edu.bd:
+/MR. MD. ATIK AHAMED;atikahamed@cse.green.edu.bd:
+/MS. FATEMA TUJ JOHORA;fatema@cse.green.edu.bd:
+/MD. ATIKUZZAMAN;atik@cse.green.edu.bd:
+/MD. PARVEZ HOSSAIN;parvez@cse.green.edu.bd:
+/MD. ABU RUMMAN REFAT;refat@cse.green.edu.bd:
+/MR. MAHBUBUR RAHMAN;mahbubur@cse.green.edu.bd:
+/MS. IFFAT FARHANA;iffat@cse.green.edu.bd:
+/MD. NURUNNABI SOHEL;nurunnabi@cse.green.edu.bd:
+/MD. RIAD HASSAN;riad@cse.green.edu.bd:
+/MR. SAURAV CHANDRA DAS;saurav@cse.green.edu.bd:
+/MS. RABEYA TUS SADIA;rabeya@cse.green.edu.bd:
+/MS. FATEMA AKTER;fatema_akter@cse.green.edu.bd:
+/MR. TANOY DEBNATH;tanoy@cse.green.edu.bd:
+/MD. ASHIQUSSALEHIN;ashiqussalehin@cse.green.edu.bd:
+/MS. NISHAT JAHAN NISHI;nishi@cse.green.edu.bd:
+/MS. ROMANA YESMIN;romana@cse.green.edu.bd:
+/MD. RAFIQUL ISLAM;rafiqul@cse.green.edu.bd:
+/MS. JAKOBIN ALAM KHAN;jakobin@cse.green.edu.bd:
+/MR. MAINUDDIN AHMED;mainuddin@cse.green.edu.bd:
+/MS. MAHMUDA RAHMAN;mahmuda@cse.green.edu.bd:
+/MR. MD. GULZAR HUSSAIN;gulzar@cse.green.edu.bd:
+/MD. ABDULLAH AL ARIF;abdullah@cse.green.edu.bd:
+/MR. MOZDAHER ABDUL QUADER;quader@cse.green.edu.bd:
+/MR. MONTASER ABDUL QUADER;montaser@cse.green.edu.bd:
+/MR. MD. MAMUNUR RAHMAN;rahman@cse.green.edu.bd:
+/MR. MD. RAJIBUL PALASH;rajibul@cse.green.edu.bd:
+/MS. RUSMITA HALIM CHAITY;chaity@cse.green.edu.bd:
+/AMENA ZAHAN;amena@cse.green.edu.bd:
